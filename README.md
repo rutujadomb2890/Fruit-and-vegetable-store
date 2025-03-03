@@ -1,3 +1,3 @@
 # Fruit-and-vegetable-store
 
-Author- Rutuja Domb
+Author- Rutuja (RDomb)
